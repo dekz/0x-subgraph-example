@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { Query } from 'react-apollo';
 import gql from 'graphql-tag';
 
-import { fontSize, colors } from './styles';
-
 const FILLS_QUERY_INTERNAL = `
   createdAt
   makerAssetFilledAmount
