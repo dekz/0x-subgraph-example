@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/s/jvlrl98xw3/static/js/main.e819d6c6.chunk.js",
-    "main.js.map": "/s/jvlrl98xw3/static/js/main.e819d6c6.chunk.js.map",
-    "runtime~main.js": "/s/jvlrl98xw3/static/js/runtime~main.a780cdee.js",
-    "runtime~main.js.map": "/s/jvlrl98xw3/static/js/runtime~main.a780cdee.js.map",
-    "static/js/2.2efd991d.chunk.js": "/s/jvlrl98xw3/static/js/2.2efd991d.chunk.js",
-    "static/js/2.2efd991d.chunk.js.map": "/s/jvlrl98xw3/static/js/2.2efd991d.chunk.js.map",
-    "index.html": "/s/jvlrl98xw3/index.html",
-    "precache-manifest.54979a1c9ba725c85e93586246dab473.js": "/s/jvlrl98xw3/precache-manifest.54979a1c9ba725c85e93586246dab473.js",
-    "service-worker.js": "/s/jvlrl98xw3/service-worker.js"
+    "main.js": "/0x-subgraph-example/static/js/main.e819d6c6.chunk.js",
+    "main.js.map": "/0x-subgraph-example/static/js/main.e819d6c6.chunk.js.map",
+    "runtime~main.js": "/0x-subgraph-example/static/js/runtime~main.836f4cb1.js",
+    "runtime~main.js.map": "/0x-subgraph-example/static/js/runtime~main.836f4cb1.js.map",
+    "static/js/2.2efd991d.chunk.js": "/0x-subgraph-example/static/js/2.2efd991d.chunk.js",
+    "static/js/2.2efd991d.chunk.js.map": "/0x-subgraph-example/static/js/2.2efd991d.chunk.js.map",
+    "index.html": "/0x-subgraph-example/index.html",
+    "precache-manifest.26bbd4debc3e2e8e2bed87801b786398.js": "/0x-subgraph-example/precache-manifest.26bbd4debc3e2e8e2bed87801b786398.js",
+    "service-worker.js": "/0x-subgraph-example/service-worker.js"
   }
 }
